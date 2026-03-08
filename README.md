@@ -1,2 +1,1 @@
-# ScratchBox
-ScratchBox is basically just a mod of BeepBox that aims to recreate BeepBox in Scratch.
+ScratchBox is a mod of BeepBox that aims to recreate BeepBox in Scratch. Beepbox was created by John Nesky, ScratchBox was originally created by Locomule on Scratch, later improvised by me. I do not claim ownership over songs created with ScratchBox, so all songs belong to their authors
